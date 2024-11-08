@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Marcos, I am 21 years old, and I really enjoy programming different things. Here, you can also see the projects I've been working on.
+My name is Marcos, I am 22 years old, and I really enjoy programming different things. Here, you can also see the projects I've been working on.
 
 ## Technologies and Tools
 - **Languages:** Java
