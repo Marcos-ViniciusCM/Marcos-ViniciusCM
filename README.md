@@ -3,7 +3,7 @@
 My name is Marcos, I am 22 years old, and I really enjoy programming different things. Here, you can also see the projects I've been working on.
 
 ## Technologies and Tools
-- **Languages:** Java
+- **Languages:** Java , C#, Kotlin
 - **Frameworks:** Spring Boot
 - **Databases:** MySQL, PostgreSQL, MongoDB ...
 - **Tools:** Git, Docker
